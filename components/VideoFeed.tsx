@@ -33,7 +33,26 @@ const SAMPLE_POSTS = [
     comments: 666,
     shares: 666,
     videoUrl: '/video3.mp4',
-  }
+  },
+  {
+    id: '4',
+    username: 'NotMe',
+    description: 'My pumpfun coins immediately after i sell 🍳 #rekt #pump',
+    songName: 'One last rug - Me',
+    likes: 666,
+    comments: 666,
+    shares: 666,
+    videoUrl: '/video4.mp4',
+  },
+  {
+    id: '5',
+    username: 'The Dodge Father',
+    description: 'The one who pump our bags. 🍳 #pump #pump',
+    songName: 'PumpIt - Elon',
+    likes: 666,
+    comments: 666,
+    shares: 666,
+    videoUrl: '/video5.mp4',
 ]
 
 export default function VideoFeed() {

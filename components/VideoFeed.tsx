@@ -24,6 +24,16 @@ const SAMPLE_POSTS = [
     shares: 666,
     videoUrl: '/video2.mp4',
   },
+  {
+    id: '3',
+    username: 'High Dev',
+    description: 'Dev passes out from being too high while trying to get the price high 🍳 #meth #breakinggood',
+    songName: 'one last hit - Dev',
+    likes: 666,
+    comments: 666,
+    shares: 666,
+    videoUrl: '/video3.mp4',
+  }
 ]
 
 export default function VideoFeed() {

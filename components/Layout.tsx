@@ -53,11 +53,11 @@ export default function Layout({ children }: { children: React.ReactNode }) {
             />
             <span className="text-xs mt-1">Pumpfun</span>
           </Link>
-          <Link href="./inbox" className="flex flex-col items-center p-2">
+          <Link href="https://t.me/pumptokonsol" className="flex flex-col items-center p-2">
             <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/icons8-telegram-50-zFukt6hjJrFb7oNXPFLx1EWcInecUV.png" alt="Inbox" className="w-6 h-6 object-contain invert" />
             <span className="text-xs mt-1">Telegram</span>
           </Link>
-          <Link href="./profile" className="flex flex-col items-center p-2">
+          <Link href="https://x.com/PumpTokonsol?t=PWII6q7HfWw9boVIk9gpWQ&s=09" className="flex flex-col items-center p-2">
             <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/icons8-twitterx-50-B3XaVJhehUt7naC9s9BZBNn7QZrSHR.png" alt="Profile" className="w-6 h-6 object-contain invert" />
             <span className="text-xs mt-1">X</span>
           </Link>

@@ -184,6 +184,7 @@ const SAMPLE_POSTS = [
     comments: 666,
     shares: 666,
     videoUrl: '/video18.mp4',
+  },
   
   
   

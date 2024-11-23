@@ -175,6 +175,15 @@ const SAMPLE_POSTS = [
     shares: 666,
     videoUrl: '/video17.mp4',
   },
+  {
+     id: '18',
+    username: 'Stupid White Bitch',
+    description: 'Another stupid white bitch fucks up a good coin. 🍳 #rekt #nuked',
+    songName: 'why you sell? - trump',
+    likes: 666,
+    comments: 666,
+    shares: 666,
+    videoUrl: '/video18.mp4',
   
   
   

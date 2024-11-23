@@ -53,6 +53,7 @@ const SAMPLE_POSTS = [
     comments: 666,
     shares: 666,
     videoUrl: '/video5.mp4',
+  },
 ]
 
 export default function VideoFeed() {

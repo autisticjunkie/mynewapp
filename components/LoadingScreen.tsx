@@ -3,7 +3,7 @@ export default function LoadingScreen() {
     <div className="fixed inset-0 bg-black flex flex-col items-center justify-center z-50">
       <div className="w-24 h-24 md:w-32 md:h-32 animate-pulse">
         <img
-          src="/loadingpage.jpeg"
+          src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/5909135157275773675.jpg-wltKvwoMRTiuTJEa6df1AGqlCOqKlL.jpeg"
           alt="PumpTok Logo"
           className="w-full h-full object-contain"
         />
@@ -12,4 +12,3 @@ export default function LoadingScreen() {
     </div>
   )
 }
-

@@ -185,7 +185,16 @@ const SAMPLE_POSTS = [
     shares: 666,
     videoUrl: '/video18.mp4',
   },
-  
+  {
+    id: '19',
+    username: 'Dog Man',
+    description: 'Man turns into a dog and begs for solamis. 🍳 #dog #pumpfunlive',
+    songName: 'Buy please - Dog',
+    likes: 666,
+    comments: 666,
+    shares: 666,
+    videoUrl: '/video19.mp4',
+  },
   
   
 ]

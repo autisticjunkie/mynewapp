@@ -195,6 +195,16 @@ const SAMPLE_POSTS = [
     shares: 666,
     videoUrl: '/video19.mp4',
   },
+  {
+    id: '20',
+    username: 'Normie',
+    description: 'Hey guys, i wanted to start trading today but after entering the link i am confused, is this pumpfun or pornhub?. 🍳 #Normie #pornhub',
+    songName: 'wtf is this - Normie',
+    likes: 666,
+    comments: 666,
+    shares: 666,
+    videoUrl: '/video20.mp4',
+  },
   
   
 ]

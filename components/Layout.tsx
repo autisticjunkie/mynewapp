@@ -18,7 +18,7 @@ export default function Layout({ children }: { children: React.ReactNode }) {
         <nav className="flex justify-between items-center px-4 py-2">
           <div className="w-1/3 flex items-center">
             <img
-              src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/logo.jpg-k0jrkBSS5dWtSUHr31o4yTL91qfjR6.jpeg.jpeg"
+              src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/5917928046252377643.jpg-s7TtdsRzaXeNvHWKNSeLdmZC6iXOtV.jpeg"
               alt="PumpTok"
               className="w-8 h-8 object-contain mr-2"
             />

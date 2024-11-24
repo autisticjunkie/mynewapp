@@ -18,7 +18,7 @@ export default function Layout({ children }: { children: React.ReactNode }) {
         <nav className="flex justify-between items-center px-4 py-2">
           <div className="w-1/3 flex items-center">
             <img
-              src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/5909135157275773675.jpg-wltKvwoMRTiuTJEa6df1AGqlCOqKlL.jpeg"
+              src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/logo.jpg-k0jrkBSS5dWtSUHr31o4yTL91qfjR6.jpeg.jpeg"
               alt="PumpTok"
               className="w-8 h-8 object-contain mr-2"
             />
@@ -47,7 +47,7 @@ export default function Layout({ children }: { children: React.ReactNode }) {
           </Link>
           <Link href="./create" className="flex flex-col items-center p-2">
             <img
-              src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/5909135157275773675.jpg-wltKvwoMRTiuTJEa6df1AGqlCOqKlL.jpeg"
+              src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/logo.jpg-k0jrkBSS5dWtSUHr31o4yTL91qfjR6.jpeg"
               alt="Create"
               className="w-6 h-6 object-contain"
             />

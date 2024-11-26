@@ -205,6 +205,60 @@ const SAMPLE_POSTS = [
     shares: 666,
     videoUrl: '/video20.mp4',
   },
+  {
+    
+    id: '21',
+    username: 'Masked Murderer',
+    description: 'Pump dev threatens to kill fish unless we pump his coin. 🍳 #bitchass #dev',
+    songName: 'masked killer - BAD',
+    likes: 666,
+    comments: 666,
+    shares: 666,
+    videoUrl: '/video21.mp4',
+  },
+  {
+    
+    id: '22',
+    username: 'Stupid BLack Dev',
+    description: 'Stupid ass black dude endangers the life of those arround him while trying to pump his shit coin by releasing shots randomly with each pump. 🍳 #stupidass #massshooter',
+    songName: 'lilchopps - PumpDev',
+    likes: 666,
+    comments: 666,
+    shares: 666,
+    videoUrl: '/video22.mp4',
+  },
+  {
+    
+    id: '23',
+    username: 'Another Stupid Ass Dev',
+    description: 'Dev tries to kill himself by burning alive for a coin that ends up being a failure?. 🍳 #burn #dev',
+    songName: 'bring up the hate - daredev',
+    likes: 666,
+    comments: 666,
+    shares: 666,
+    videoUrl: '/video23.mp4',
+  },
+  {
+    
+    id: '24',
+    username: 'Another stupid ass dev',
+    description: 'Dev does drugs on strippers ass to pump coin. #pumpfun #dev',
+    songName: 'coke - lamedev',
+    likes: 666,
+    comments: 666,
+    shares: 666,
+    videoUrl: '/video24.mp4',
+  },
+  
+    id: '25',
+    username: 'Shitcoin Dev',
+    description: 'dev launches a shitcoin while taking a shit and refuses to leave until it gets to 50M. he prolly gonna die there. 🍳 #shitcoin #dev',
+    songName: 'wtf is this - Normie',
+    likes: 666,
+    comments: 666,
+    shares: 666,
+    videoUrl: '/video25.mp4',
+  },
   
   
 ]
